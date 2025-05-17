@@ -11,31 +11,22 @@ Hi there! This is my personal GitHub where I share projects about data, analytic
 
 ## 💼 Projects
 
-### 📊 Marketing Campaign Dashboard
-**Tools:** Tableau, Excel  
-Analyzed performance metrics for paid ad campaigns and created a visual dashboard.  
-👉 [View Project](#)
+### 🏨 Hotel Review Sentiment Analysis  
+Analyzed 20,000+ TripAdvisor reviews using NLP and machine learning to understand what drives hotel satisfaction.  
+🔗 [View Project Repository](https://github.com/Danielaaguirres/tripadvisor-hotel-review-analysis)  
+📄 [View Presentation (Canva)](https://www.canva.com/design/DAGhTU1YF5A/view?utm_content=DAGhTU1YF5A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
----
-
-### 🌱 Sustainable Investment Analysis
-**Tools:** Bloomberg Terminal, Python  
-Evaluated green bonds using ESG data to support sustainable financing decisions.  
-👉 [View Project](#)
-
----
-
-### 🧠 Neural Network from Scratch
-**Tools:** NumPy, Python  
-Built a neural net to classify images and understand forward/backpropagation.  
-👉 [View Code](#)
 
 ---
 
 ## 🔧 Skills
-- **Languages:** Python, SQL, R  
-- **Tools:** Tableau, Bloomberg, Excel, Power BI  
-- **Techniques:** Predictive modeling, visualization, business intelligence  
+
+- **Languages:** Python, SQL, R, HTML (basic), Markdown  
+- **Databases:** MongoDB, Cassandra, MySQL  
+- **Tools & Platforms:** Tableau, Power BI, Excel, Bloomberg Terminal, GitHub, Google Analytics, Canva  
+- **Libraries & Frameworks:** pandas, NumPy, scikit-learn, NLTK, Gensim, matplotlib, seaborn  
+- **Techniques:** Predictive modeling, sentiment analysis, NLP, data visualization, clustering, topic modeling, A/B testing, customer segmentation, feature engineering  
+- **Other:** Jupyter Notebooks, Git, Agile collaboration, data storytelling, dashboard design
 
 ---
 
