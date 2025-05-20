@@ -32,4 +32,4 @@ Analyzed 20,000+ TripAdvisor reviews using NLP and machine learning to understan
 
 ## 📫 Let's Connect
 - 📧 dcaguirr@uci.edu  
-- 🔗 [LinkedIn](https://linkedin.com/in/danielaaguirre)
+- 🔗 [LinkedIn](www.linkedin.com/in/daniela-aguirre-22b856216)
